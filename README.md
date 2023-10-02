@@ -6,8 +6,6 @@ A simple cursor animation using javascript
 
 ## Installation
 
-Install paresport with npm
-
 ```bash
   git clone git@github.com:DamienFoulon/cursor-animation.git
   cd cursor-animation
